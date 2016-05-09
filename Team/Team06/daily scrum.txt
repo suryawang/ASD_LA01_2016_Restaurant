@@ -1,0 +1,29 @@
+Anggota:
+Adelia - 1801384363
+Aristama Budiono - 1801387163
+Bernardo Laurentxius - 1801382673
+Devi Kumala - 1801405374
+Evelyn Yoesephine - 1801382074
+Ferryanto Setiawan - 1801379703
+Michael Adam - 1801384230
+Mico Yohanes - 1801381701
+Stevian - 1801383953
+
+Hal yang sudah dikerjakan:
+- membuat halaman login
+- membuat halaman menu
+- membuat halaman detail menu
+- membuat halaman add, update, delete menu untuk admin
+- membuat halaman contact us
+- membuat halaman delete inquiry untuk admin
+- membuat halaman about us
+- membuat erd
+- membuat database
+
+Hal yang akan dikerjakan:
+- membuat halaman order
+- membuat halaman add, update, delete order
+
+Kesulitan yang dihadapi:
+- mempelajari bahasa pemrograman yang baru
+- menerapkan bahasa tersebut menjadi sebuah website
