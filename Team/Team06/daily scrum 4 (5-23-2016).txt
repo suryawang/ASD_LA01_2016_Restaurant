@@ -1,0 +1,25 @@
+Anggota:
+Adelia - 1801384363
+Aristama Budiono - 1801387163
+Bernardo Laurentxius - 1801382673
+Devi Kumala - 1801405374
+Evelyn Yoesephine - 1801382074
+Ferryanto Setiawan - 1801379703
+Michael Adam - 1801384230
+Mico Yohanes - 1801381701
+Stevian - 1801383953
+
+Hal yang sudah dikerjakan:
+- membuat mockup untuk page register
+- membuat front-end untuk page order dan register
+- menambahkan tombol order dan form quantity pada halaman menu untuk member
+- menambahkan tombol register pada halaman index
+- membuat back-end untuk page register
+
+Hal yang akan dikerjakan:
+- membuat mockup untuk page bill
+- membuat front-end untuk bill
+- membuat back-end untuk page order
+
+Kesulitan yang dihadapi:
+- coding back-end

@@ -1,0 +1,32 @@
+1. Login
+connect database sudah berhasil dilakukan, dan user yang sudah terdaftar dapat login ke website. Fitur ini juga sudah dilengkapi dengan validasi.
+
+2. Register
+user dapat mendaftar untuk menjadi member. Setelah selesai melakukan pendaftaran, user dapat login ke website dan memesan makanan. Hal yang masih harus ditambahkan adalah proses validasi.
+
+3. View Menu
+website dapat menampilkan menu yang ada pada database. siapapun dapat melihat list menu pada website ini, tanpa perlu login. Pada page menu untuk admin, terdapat tombol untuk update, delete, dan add. Pada page menu untuk member, terdapat tombol untuk order.
+
+4. Add Menu (Admin)
+admin dapat menambahkan menu pada database melalui website. Pada fitur ini sudah ada validasi.
+
+5. Update Menu (Admin)
+admin dapat meng-update menu pada database melalui website. Pada fitur ini sudah ada validasi.
+
+6. Delete Menu (Admin)
+admin dapat menghapus menu dari database melalui website.
+
+7. View Detail Menu
+user dapat melihat detail menu ketika mengklik item pada page menu.
+
+8. View Message (Admin)
+admin dapat melihat message yang dikirim oleh customer.
+
+9. Send Message
+user dapat mengirim message untuk admin apabila ingin bertanya atau memberikan saran.
+
+10. View About Us
+user dapat melihat keterangan tentang web ini.
+
+11. View Contact Us
+user dapat melihat contact dari web ini untuk menghubungi pemilik.
