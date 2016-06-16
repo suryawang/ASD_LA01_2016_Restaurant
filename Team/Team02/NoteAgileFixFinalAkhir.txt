@@ -1,0 +1,1 @@
+rar apps nya kita split jadi 3 bagian pak karena size nya terlalu besar buat git hub (>25mb)
