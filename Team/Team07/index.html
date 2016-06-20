@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Nano Food</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<script src="script/jquery.js"></script>
+	<link rel="stylesheet" href="font/quicksand/fonts-quicksand.css">
+	<link rel="stylesheet" href="style/style.css">
+	<link rel="stylesheet" href="style/header-footer.css">
+	<link rel="stylesheet" href="style/content.css">
+	<link rel="stylesheet" href="style/imgslider.css">
+	<link rel="stylesheet" href="style/back-Top.css">
+</head>
+<body>
+
+	
+	<header>
+		<nav>	
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li>
+					<span>Product</span>
+					<div class="dropdown-content">
+						<a href="product_pizza.html">Pizza</a>
+						<a href="product_pasta.html">Pasta</a>
+						<a href="product_beverage.html">Beverage</a>
+					</div>
+				</li>
+				<li><a href="about_company.html">About Us</a></li>
+				<li><a href="login.html">Login</a></li>
+				<li><a href="register.html"><span>Register</span></a></li>
+			</ul>
+		</nav>
+		<div id="header-desc">
+			<a href="index.html"><div id="logo"></div></a>
+			<div id="title">Nano Pizza</div>
+			<div id="motto">brings you the best foods experience</div>
+			<button id="catalog">CATALOG</button>
+		</div>
+	</header>
+
+	<div id="container">
+		<section>
+			<div class="img-slider">
+				<div class="items" style="background-image:url('img/slider1.jpg'); height:500px;">
+				</div>
+				<div class="items" style="background-image:url('img/slider2.jpg'); height:500px;">
+				</div>
+				<div class="items" style="background-image:url('img/slider3.jpg'); height:500px;">
+				</div>
+				
+			</div>
+			
+			<div name="feature" id="feature">Featured</div>
+			
+			<div id="product-list">
+				<a href="product_pizza.html">
+					<div class="box-list">
+						<div class="title">Pizza</div>
+						<div class="image-holder">
+							<img src="img/home1.jpg">
+						</div>
+						<div class="description">
+							<a href="">Explore</a>
+						</div>
+					</div>
+				</a>
+				<a href="product_pasta.html">
+					<div class="box-list">
+						<div class="title">Pasta</div>
+						<div class="image-holder">
+							<img src="img/home2.jpg" alt="">
+						</div>
+						<div class="description">
+							Explore
+						</div>
+					</div>
+				</a>
+				<a href="product_beverage.html">
+					<div class="box-list">
+						<div class="title">Beverage</div>
+						<div class="image-holder">
+							<img src="img/home3.jpg" alt="">
+						</div>
+						<div class="description">
+							Explore
+						</div>
+					</div>
+				</a>
+			</div>
+
+		</section>
+		<footer>
+			<div class="social-media-container">
+				<img src="img/social media/facebook.png" alt="">
+				<a href="">Facebook</a>
+				<img src="img/social media/twitter.png" alt="">
+				<a href="">Twitter</a>
+				<img src="img/social media/instagram.png" alt="">
+				<a href="">Instagram</a>
+			</div>
+
+			<div id="footer-copyright">
+				© 2014 Copyright
+			</div>
+		</footer>
+	</div>
+	<a href="#" class="back-to-top">
+		back to top
+	</a>
+</div>
+<script src="script/imgslider.js"></script>
+<script src="script/back-Top.js"></script>
+<script>
+	$("#catalog").click(function() {
+		$('html, body').animate({
+			scrollTop: $("#feature").offset().top
+		}, 1000);
+	});
+</script>
+</body>	
+</html>
